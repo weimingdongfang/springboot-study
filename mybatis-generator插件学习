@@ -3,3 +3,5 @@ E:在interllij自动生成springboot initial中的application.properties中sprin
 Q:Failed to execute goal org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:mybatis-generator-maven-plugin:1.3.2:generate failed: Exception getting JDBC Driver
 
 A:改为spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+
+具体原因还不知道
